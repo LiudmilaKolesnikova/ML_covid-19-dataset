@@ -1,2 +1,2 @@
 # COVID-19 Dataset Analysis
-[ML_project.pdf](https://github.com/LiudmilaKolesnikova/ML_covid-19-dataset/files/5942409/ML_project.pdf)
+[COVID-19 Dataset Analysis.pdf](https://github.com/LiudmilaKolesnikova/ML_covid-19-dataset/blob/main/Covid-19%20Dataset%20Analysis.pdf)
